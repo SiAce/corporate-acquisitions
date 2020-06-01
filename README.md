@@ -17,7 +17,7 @@ Data acquired and combined from [Lists of corporate acquisitions and mergers](ht
 
 
 
-There are 7 columns in this data table (acquisitions.tsv):
+There are 7 columns in this data table ([acquisitions.tsv](acquisitions.tsv)):
 - acquired_by (string): The corporate who acquired the company.
 - date (string: ): The date when the corporate acquired the company.
 - company (string): The company acquired by the corporate.
