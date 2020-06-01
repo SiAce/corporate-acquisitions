@@ -1,0 +1,5 @@
+# pycharm project files
+/.idea/
+
+# python venv
+/acquisitions-venv/
